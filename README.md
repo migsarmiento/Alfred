@@ -1,2 +1,12 @@
 # Alfred
 this is a test commit
+change
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+<div id="app"></div>
+<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+</body>
+</html>
